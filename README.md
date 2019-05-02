@@ -1,0 +1,11 @@
+# To Implement
+- Cholesky Factorisation
+- Gauss-Legendre Quadrature
+- Conjugate Gradient
+- Rayleigh Quotient Iteration
+- Power Method with shifts and deflation
+- QR Algorithm with Wilkinson shifts
+- Golub-Kahan bidiagonalisation with Householder reflectors
+- Divide and Conquer eigenvalue algorithm
+- GMRES
+- Sparse NMF
