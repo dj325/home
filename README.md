@@ -1,5 +1,5 @@
 # To Implement
-- Cholesky Factorisation
+- ~~Cholesky Factorisation~~
 - Gauss-Legendre Quadrature
 - Conjugate Gradient
 - Rayleigh Quotient Iteration
